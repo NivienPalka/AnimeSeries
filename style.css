@@ -6,4 +6,20 @@ body{
     font-family: 'omori', 'sans-serif';
     background-color: rgb(54, 54, 54) ;
     color: White;
+    height: 300vh;
+}
+
+::-webkit-scrollbar{
+    width: 0.2vw;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(181, 181, 181);
+    border-radius: 5%;
+    }
+
+
+
+.hdr{
+    width: 100%;
 }
