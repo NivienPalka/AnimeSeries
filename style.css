@@ -1,5 +1,9 @@
 @font-face {
-    font-family: OMORI_GAME;
-    src: url(OMORI_GAME.ttf);
-};
-
+    font-family: 'omori';
+    src: url(OMORI_GAME2.ttf);
+}
+body{
+    font-family: 'omori', 'sans-serif';
+    background-color: rgb(54, 54, 54) ;
+    color: White;
+}
